@@ -30,3 +30,5 @@ Find maximum rectangular area in histogram. Solved with monotonic stack techniqu
 
 ```bash
 g++ -std=c++11 -O2 solution.cpp -o solution
+./solution
+```
